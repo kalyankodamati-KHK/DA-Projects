@@ -1,4 +1,4 @@
-# DA-Projects
+# DataAnalytics-Projects
 I’m a Computer Science graduate with hands-on experience in Python, data analysis, and system administration. I have worked with Windows Server 2022, Active Directory, DNS, and DHCP, and have experience managing Linux systems for administrative tasks.
 I’ve completed projects in data analysis using Python and R, where I handled data collection, cleaning, statistical analysis, visualization, and report generation. I’m comfortable working with MySQL, and programming languages such as Python, Java, C, and C++.
 Previously, I worked as a CMS Executive, where I interacted directly with clients, monitored security systems, maintained server operations, and ensured uninterrupted system performance. I enjoy learning new technologies, solving technical problems, and building practical, reliable solutions.
